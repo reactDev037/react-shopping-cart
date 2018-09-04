@@ -8,6 +8,7 @@ for demo [click here](http://morgan.github.io/react-shopping-cart/)
 
 install dependencies and start local dev server
 
+```sh
 git clone https://github.com/reactDev037/react-shopping-cart
 npm install
 npm start
