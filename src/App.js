@@ -21,7 +21,7 @@ const App = () => {
 
             <footer>
                 <small>
-                    made by <a href="https://twitter.com/krzysu">Kris Urbas</a>, source code available on <a href="https://github.com/krzysu/reactjs-shopping-cart">github</a>
+                    made by Morgan Zolko, source code available on <a href="https://github.com/reactDev037/react-shopping-cart">github</a>
                 </small>
             </footer>
         </div>

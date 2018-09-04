@@ -2,13 +2,13 @@
 
 example of shopping cart implemented in react.js and redux.js
 
-for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
+for demo [click here](http://morgan.github.io/react-shopping-cart/)
 
 ## getting started
 
 install dependencies and start local dev server
 
-```sh
+git clone https://github.com/reactDev037/react-shopping-cart
 npm install
 npm start
 ```
@@ -21,7 +21,3 @@ npm start
 
 ## TODO
 - add reducers and selectors unit tests
-
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
